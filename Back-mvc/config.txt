@@ -1,0 +1,4 @@
+user:ds
+password:vero
+host:localhost
+database:store_db
