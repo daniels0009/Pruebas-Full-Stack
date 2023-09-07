@@ -5,7 +5,7 @@
 - 
 - # Diseño de la pagina
 
-![Diseño](/prueba.PNG)
+![Diseño](/prueba.png)
 
 ## Backend
 
