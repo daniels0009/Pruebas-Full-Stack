@@ -3,13 +3,14 @@
 ## Front
 - [Visitar mi sitio web](https://prueba-fullstack-danielcamargo.netlify.app/)
 
-- # Diseño de la pagina
+ 
+ ### Diseño de la pagina
 
 ![Diseño](/prueba.png)
 
 ## Backend
 
-# Diagrama de caso de uso
+### Diagrama de caso de uso
 
 ![Diagrama](Back-mvc/Diagrama_de_tienda.PNG)
 
