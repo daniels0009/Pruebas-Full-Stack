@@ -12,6 +12,6 @@
 
 ### Diagrama de caso de uso
 
-![Diagrama](Back-mvc/Diagrama_de_tienda.PNG)
+![Diagrama](/Diagrama_de_tienda.PNG)
 
 
