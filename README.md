@@ -2,7 +2,7 @@
 
 ## Front
 - [Visitar mi sitio web](https://prueba-fullstack-danielcamargo.netlify.app/)
-- 
+
 - # Diseño de la pagina
 
 ![Diseño](/prueba.png)
